@@ -1,0 +1,2 @@
+# taller-1_IA-en-salud
+Taller 1 - IA EN SALUD - MAESTRIA EN EPIDEMIOLOGIA CLINICA
